@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/hlord2000/rpi-lib-kicad)](https://github.com/hlord2000/rpi-lib-kicad/network)
 [![GitHub issues](https://img.shields.io/github/issues/hlord2000/rpi-lib-kicad)](https://github.com/hlord2000/rpi-lib-kicad/issues)
 ---
-# A KiCAD 8 library for all Raspberry Pi microcontrollers.
+# A KiCAD 8 library for the RP2350, RP2350A, RP2354A, RP2350B, and RP2354B
 
 <p align="center">
   <img src="img/img.png" alt="centered image" />
