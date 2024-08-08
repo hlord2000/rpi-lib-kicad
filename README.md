@@ -14,17 +14,7 @@ KLC compliance is established using KiCAD's official scripts within the "kicad-l
 
 Compliance for the purposes of this library is defined as zero errors for footprints and symbols. Reasonable warnings about pin position or names may be accepted.
 
-## Installation instructions
-
-Open the KiCAD Plugin and Content Manager (PCM), click "Manage..." in the top right, and add the following URL to your list of repositories:
-```
-https://raw.githubusercontent.com/hlord2000/hlord2000-kicad-repository/main/repository.json
-```
-Then, using the dropdown in the PCM, switch to "hlord2000's KiCAD Repository" and click on the "Libraries" tab.
-
 ## Seeking pull-requests for any footprint/symbol/3D model marked 🚧
-
-## Seeking pull-requests for any Raspberry Pi module
 
  # RP235x series
 
