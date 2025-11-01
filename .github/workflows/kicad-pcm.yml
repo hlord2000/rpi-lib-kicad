@@ -16,11 +16,7 @@ jobs:
       - name: Get latest tag
         uses: oprypin/find-latest-tag@v1
         with:
-<<<<<<< HEAD
-          repository: hlord2000/nordic-lib-kicad
-=======
           repository: hlord2000/rpi-lib-kicad
->>>>>>> 7bc2cd3 (Initial commit.)
           releases-only: true
         id: latest-release
 
